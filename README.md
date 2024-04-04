@@ -1,1 +1,1 @@
-Analysis of Clustering Algorithms (K-Means, DBSCAN & Heirarchical)
+Analysis of Clustering Algorithms (K-Means, DBSCAN & Hierarchical)
